@@ -1,0 +1,11 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+}
+label {
+  display: inline-block;
+  text-align: initial;
+  margin: 0.5rem 0;
+}
